@@ -1,5 +1,9 @@
 #other
+.idea
 .DS_Store
+upload/
+keys/
+temp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
