@@ -1,4 +1,4 @@
-# EncryFile
+# EncryptFile
 encrypt/decrypt files
 
 you need:
