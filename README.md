@@ -1,8 +1,9 @@
 # EncryptFile
 encrypt/decrypt files
 
-you need:
-1.Django
+web-0.01-bate
+Django/
+
 
 RSA私钥及公钥生成
 
