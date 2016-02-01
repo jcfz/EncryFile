@@ -6,8 +6,6 @@ Django/
 
 Desktop 
 
-git
-
 
 RSA私钥及公钥生成
 
