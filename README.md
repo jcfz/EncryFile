@@ -4,6 +4,8 @@ encrypt/decrypt files
 web-0.01-bate
 Django/
 
+Desktop
+
 
 RSA私钥及公钥生成
 
