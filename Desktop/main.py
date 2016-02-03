@@ -1,3 +1,8 @@
+# -*- coding:utf-8 -*-
 import os
 
-print 'EncryptFile'
+files = os.walk("./source/")
+for f in files:
+    print f
+print os.getcwd()
+print os.chdir(os.getcwd())
